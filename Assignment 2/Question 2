@@ -1,0 +1,32 @@
+This assignment is concerned with one of the basic programming constructs: decision making in the form of logical if-then, if-then-else, and case statements in Chapter 3.  Also considered in Chapter 4 are mathematical functions and Strings, a basic data type consisting of an arbitrary number of characters.  The geometry in these exercises is fundamental and will be used in several later exercised, so the same exercises are assigned to both CS and MIS flavors.  Keep the code for the subsequent assignments.
+
+You should read and study Chapters 3 and 4, implementing some examples, proceeding through the chapter review questions, and then doing and submitting one of the following problems sets:
+
+Assignment 2
+
+12th Edition
+
+11th Edition
+
+CS
+
+3.3, 3.27, 4.2, 4.3
+
+3.3, 3.27, 4.2, 4.3
+
+MIS
+
+3.13, 3.31, 4.2, 4.3
+
+3.13, 3.31, 4.2, 4.3
+
+For Exercise 3.3 show the equations to the users so they understand what the six letters a, b, …, f mean.  An efficient way to enter these numbers is to ask the user to enter them in a single line separated by spaces.  Similarly, for each pair numbers needed for 3.27 and the 4 numbers for 4.2.
+
+For 3.31 the exchange rate may be found hereLinks to an external site..
+
+For Exercise 4.3 do not ask users to enter all the latitudes and longitudes, just compile them right into the program and show (print), with appropriate labels, the user all the intermediate distances and the areas of the two triangles you used to calculate the total area.  That way I might be able to catch where any mistakes occurred.  Also with this many computation it may be a good thing to show the user intermediate results, like distances between cities and the areas of the two triangle.  Remember to label them so the user knows what the numbers are.
+
+Remember:
+
+All programs need a brief introduction printed for the user saying what the program will do, an intro statement.
+Prompts to the user for the inputs required for the program.  Need to say what each input is (e.g., letter, word, number phrase), its units (e.g., counts, $, scales) and how it should be formatted (e.g., 3 number separated by spaces).
